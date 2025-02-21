@@ -2,11 +2,11 @@
 <body>
 <h1><font color='red'> hey sagar - you Succesfully build and deploy the application <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.ashokit.in">hello</a>
   
-  <h2> Call Us : +91-9985396677  </h2>
+  <h2> Call Us : +91-0000000000  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Our Ofc Location : SHRIRAMPUR, AHILYANAGAR </h3>
 
 </body>
 </html>
