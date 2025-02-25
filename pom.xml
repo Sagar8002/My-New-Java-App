@@ -16,17 +16,7 @@
     </dependency>
    
   </dependencies>
-  <build>
-  <pluginManagement>
-    <plugins>
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>yourPluginVersion</version>
-      </plugin>
-    </plugins>
-  </pluginManagement>
-</build>
+ 
   <build>
     <finalName>maven-web-app</finalName>
     <plugins>
